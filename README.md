@@ -12,7 +12,7 @@ Following are the steps performed to detect the label of Covid19 tweets -
 2. Cleaning the dataset 
 3. Analyzing the dataset
 4. Applying supervised Conventional approaches
-5. Applying transformer based approach 
+5. Applying transformer based approaches
 6. Analyzing the results of all approaches
 
 
