@@ -16,9 +16,9 @@ Following are the steps performed to detect the label of Covid19 tweets -
 6. Analyzing the results of all approaches
 
 
-# Conventional Approach
+# Conventional Approaches
 
-# Transformer approaches
+# Transformer Based Approaches
 
 # Results
 
