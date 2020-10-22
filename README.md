@@ -19,13 +19,22 @@ The given dataset consists of train set and valid set, each containing 7000 and 
 6. Analyzing the results of all approaches
 
 
-## Conventional Approaches
+## Conventional Approaches ( Tf-IDf and Count Vectors )
 1. Logistic Regression
-
+2. SVM
+3. Naive Bayes
+4. Random Forest Classifier
+5. 2-layered MLP
 
 ## Transformer Based Approaches
+1. BERT ( Pretrained model - bert-base-uncased )
+2. RoBERTa ( Pretrained model - roberta-base )
+3. DistilBERT ( Pretrained model - distilbert-base-uncased )
+4. Albert ( Pretrained model - albert-base-v1 )
 
 ## Results
+
+Roberta outperformed all methods in both approaches after considering the average of F1 scores obtained after several times of execution.
 
 
 
