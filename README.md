@@ -31,7 +31,8 @@ The given dataset consists of train set and valid set, each containing 7000 and 
 3. DistilBERT ( Pretrained model - distilbert-base-uncased )
 4. Albert ( Pretrained model - albert-base-v1 )
 
-PROCESS STEPS: 
+### PROCESS STEPS: 
+
 0. Install transformers
 1. Import necessary libraries and Check out for GPU. 
 2. Clean the data 
