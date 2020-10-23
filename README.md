@@ -50,7 +50,7 @@ The given dataset consists of train set and valid set, each containing 7000 and 
     - Note the losses
     - evaluate the Dev set 
 11. Visualize the training loss ( feel happy :) )
-12. Preduct Labels for Valid dataset 
+12. Predict Labels for Valid dataset 
     - Split into batches and evaluate ( to reduce time of computation and execution )
     
 ## Results
