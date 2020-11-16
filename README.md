@@ -1,5 +1,10 @@
-# RoBERTa
-A pretrained model, introduced by Facebook, which uses robustly optimized techniques upon bert. The main difference between Bert and Roberta which makes Roberta perform well is dynamic masking technique and removal of next sentence prediction (NSP). Also, Roberta is trained on a larger set of data than Bert.
+# Detection of COVID-19 informative tweets using RoBERTa
+
+DSC-IIT ISM at WNUT-2020 Task 2: Detection of COVID-19 informative tweets using RoBERTa
+
+Authors: Sirigireddy Dhanalaxmi, Rohit Agarwal and Aman Sinha  
+(Accepted at WNUT-2020 Workshop, collocated with EMNLP'2020)
+
 
 # W-NUT Shared Task 2
 The challenge is to differentiate the informative and uninformative tweets collected basing on current topic Covid-19. A tweet is labelled as informative if it contains any information regarding new or suspicious cases and uninformative in rest of the cases.
@@ -53,6 +58,9 @@ The given dataset consists of train set and valid set, each containing 7000 and 
 12. Predict Labels for Valid dataset 
     - Split into batches and evaluate ( to reduce time of computation and execution )
     
+# RoBERTa
+A pretrained model, introduced by Facebook, which uses robustly optimized techniques upon bert. The main difference between Bert and Roberta which makes Roberta perform well is dynamic masking technique and removal of next sentence prediction (NSP). Also, Roberta is trained on a larger set of data than Bert.    
+
 ## Results
 
 Roberta outperformed all methods in both approaches after considering the average of F1 scores obtained after several times of execution.
